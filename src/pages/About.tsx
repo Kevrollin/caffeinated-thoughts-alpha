@@ -20,31 +20,31 @@ const About = () => {
     {
       name: "Medium",
       icon: "M",
-      url: "https://medium.com/@yourusername",
+      url: "https://medium.com/@kelvinmukaria012",
       color: "hover:text-green-500"
     },
     {
       name: "LinkedIn",
       icon: Linkedin,
-      url: "https://linkedin.com/in/yourusername",
+      url: "https://www.linkedin.com/in/kelvin-mukaria-831211359/",
       color: "hover:text-blue-500"
     },
     {
       name: "Instagram",
       icon: Instagram,
-      url: "https://instagram.com/yourusername",
+      url: "https://instagram.com/kev.mukaria",
       color: "hover:text-pink-500"
     },
     {
       name: "GitHub",
       icon: Github,
-      url: "https://github.com/yourusername",
+      url: "https://github.com/Kevrollin",
       color: "hover:text-gray-900"
     },
     {
       name: "X",
       icon: X,
-      url: "https://x.com/yourusername",
+      url: "https://x.com/kevrollin012/",
       color: "hover:text-black"
     }
   ];
